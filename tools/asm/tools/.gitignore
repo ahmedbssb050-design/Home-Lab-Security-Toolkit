@@ -1,0 +1,9 @@
+# Compiled binaries
+*.o
+*.out
+scanner
+Encryptor.class
+
+# OS Files
+.DS_Store
+Thumbs.db
